@@ -1,2 +1,2 @@
-# hello-world
-This is a hello-world-repository!
+Hello everyone!
+My name is Oybek Abdullaev.
